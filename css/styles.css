@@ -267,6 +267,7 @@ nav .nav-logo-container {
     height: auto;
 }
 .blog-main {
+    padding: 25px;
     padding-bottom: 20px;
 }
 .blog-text p {
