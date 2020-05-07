@@ -235,3 +235,42 @@ i {
     width: 20px;
     height: 20px;
 }
+@media  (max-width: 370px) {
+   
+nav .nav-logo-container {
+    margin-left: 0;
+}
+.main2 {
+    display: block;
+}
+.news {
+    display: block;
+}
+.news-l img {
+    width: 100%;
+    
+}
+.news-r {
+    width: inherit;
+}
+.footer-c {
+    display: block;
+    
+}
+.footer-l {
+    margin: auto;
+}
+.footer-r {
+    margin: auto;
+}
+.blog-text {
+    height: auto;
+}
+.blog-main {
+    padding-bottom: 20px;
+}
+.blog-text p {
+    font-size: 20px;
+    margin-bottom: 0;
+}
+}
