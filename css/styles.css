@@ -242,16 +242,27 @@ nav .nav-logo-container {
 }
 .main2 {
     display: block;
+    
 }
 .news {
     display: block;
+    height: 620px;
+}
+.news-l {
+    text-align: center;
+    padding: auto
 }
 .news-l img {
-    width: 100%;
-    
+    width: 70%;
+    height: 70%;
+
+}
+.news-l h2 {
+    padding-left: 0;
 }
 .news-r {
-    width: inherit;
+    width: 80%;
+    margin: auto;
 }
 .footer-c {
     display: block;
@@ -274,4 +285,15 @@ nav .nav-logo-container {
     font-size: 20px;
     margin-bottom: 0;
 }
+.main {
+    position: fixed;
+    height: 450px;
+}
+.main-section {
+  position: relative;
+  top: 30px;
+  height: inherit;
+  display: flex;
+}
+
 }
